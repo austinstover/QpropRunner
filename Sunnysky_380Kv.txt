@@ -1,0 +1,7 @@
+Sunnysky_380Kv	! name
+
+1	! motor type  (1 = permanent-magnet brushed or brushless DC motor)
+
+0.1	! motor parameter 1, R (Ohms) for motor type 1
+0.3	! motor parameter 2, Io (Amps) for motor type 1
+380	! motor parameter 3, Kv (rpm/Volt) for motor type 1
